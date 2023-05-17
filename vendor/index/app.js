@@ -78,3 +78,14 @@
 // alert('1から10まで足し算した結果は' + num + 'です');
 // アラートウィンドウに計算結果を表示
 
+// varによる再宣言→エラー
+// var nickname = "taro"
+// console.log(nickname)
+// var nickname = "ichiro"
+// console.log(nickname)
+
+// varによる再代入
+var nickname = "taro"
+console.log(nickname)
+nickname = "jiro"
+console.log(nickname)
