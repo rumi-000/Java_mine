@@ -38,3 +38,39 @@
 //   });
 // });
 
+// クリックすると四角が消える。(クリックしたものだけ)
+// $(function(){
+//   $('.bg1').on('click', function(){
+//     $('.bg1').slideUp();
+//   });
+
+//   $('.bg2').on('click', function(){
+//     $('.bg2').slideUp();
+//   });
+
+//   $('.bg3').on('click', function(){
+//     $('.bg3').slideUp();
+//   });
+
+//   $('.bg4').on('click', function(){
+//     $('.bg4').slideUp();
+//   });
+// });
+
+// //thisの学習 
+// //↑を一つにまとめたもの
+// // box1をhtmlで定義ずみ
+// $(function(){
+//   $('.box1').on('click', function(){
+//     $(this).slideUp();
+//   });
+// });
+
+//childrenの学習
+// htmlの記述→ <button>クリック</button>
+// クリックをすると、ul要素が赤くなる、s
+// $(function(){
+//   $('button').on('click', function(){
+//     $('ul').children().css('color','red');
+//   });
+// });
