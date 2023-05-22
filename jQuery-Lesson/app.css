@@ -1,0 +1,59 @@
+/*.box1 {*/
+/*  display: none;  background-color: #FF0000;*/
+/*  height: 200px;*/
+/*  width: 200px;*/
+/*}*/
+/*上ら表示させる*/
+
+/*.box1 {*/
+/*  background-color: #FF0000;*/
+/*  height: 200px;*/
+/*  width: 200px;*/
+/*}*/
+/*// // 下から上へ画像が消える*/
+
+/*.box1 {*/
+/*  display: none;  background-color: #FF0000;*/
+/*  height: 200px;*/
+/*  width: 200px;*/
+/*}*/
+
+/*↓*/
+
+/*.box1 {*/
+  /* display: none; を削除 */  
+/*  background-color: #FF0000;*/
+/*  height: 200px;*/
+/*  width: 200px;*/
+/*}*/
+/*これで一瞬表示→jQueryによって隠される*/
+
+/*.box1 {*/
+/*  background-color: #FF0000;*/
+/*  height: 200px;*/
+/*  width: 200px;*/
+/*}*/
+
+
+/*.box1 {*/
+/*  background-color: #FFFFFF;*/
+/*  height: 200px;*/
+/*  width: 200px;*/
+/*  float: left;*/
+/*}*/
+
+/*.bg1 {*/
+/*  background-color: #FFAAAA;*/
+/*}*/
+
+/*.bg2 {*/
+/*  background-color: #FFBBBB;*/
+/*}*/
+
+/*.bg3 {*/
+/*  background-color: #FFCCCC;*/
+/*}*/
+
+/*.bg4 {*/
+/*  background-color: #FFDDDD;*/
+/*}*/
