@@ -69,8 +69,8 @@
 //childrenの学習
 // htmlの記述→ <button>クリック</button>
 // クリックをすると、ul要素が赤くなる、s
-// $(function(){
-//   $('button').on('click', function(){
-//     $('ul').children().css('color','red');
-//   });
-// });
+$(function(){
+$('button').on('click', function(){
+$('ul').children().css('color','red');
+});
+});
