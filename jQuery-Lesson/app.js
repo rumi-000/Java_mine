@@ -60,11 +60,11 @@
 // //thisの学習 
 // //↑を一つにまとめたもの
 // // box1をhtmlで定義ずみ
-// $(function(){
-//   $('.box1').on('click', function(){
-//     $(this).slideUp();
-//   });
-// });
+$(function(){
+$('.box1').on('click', function(){
+$(this).slideUp();
+});
+});
 
 //childrenの学習
 // htmlの記述→ <button>クリック</button>
