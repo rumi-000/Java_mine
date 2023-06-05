@@ -52,10 +52,9 @@
 //     $('.bg3').slideUp();
 //   });
 
-//   $('.bg4').on('click', function(){
-//     $('.bg4').slideUp();
-//   });
-// });
+$('.bg4').on('click', function(){
+$('.bg4').slideUp();
+});
 
 // //thisの学習 
 // //↑を一つにまとめたもの
